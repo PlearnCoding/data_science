@@ -1,0 +1,12 @@
+opencv-python-headless
+streamlit
+streamlit-webrtc
+numpy
+pandas
+matplotlib
+seaborn
+glob
+scikit-learn
+keras
+scipy
+ultralytics
